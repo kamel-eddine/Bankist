@@ -5,10 +5,10 @@ Welcome to the Bankist website! This web application allows users to manage thei
 # Login Credentials
 There are four user accounts that you can use to log in to the website:
 
-### Usernames: js, stw, jd, ss
-### PIN codes: 1111, 2222, 3333, 4444
+#### Usernames: js, stw, jd, ss
+#### PIN codes: 1111, 2222, 3333, 4444
 
-Please use the appropriate username and PIN code combination to log in to the website.
+Please use the appropriate username and PIN code combination to log in to the website : https://kamel-eddine.github.io/Bankist/
 
 
 
