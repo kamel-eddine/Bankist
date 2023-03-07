@@ -2,11 +2,12 @@
 
 Welcome to the Bankist website! This web application allows users to manage their banking transactions online. To access the website, please follow the instructions below:
 
-Login Credentials
+# Login Credentials
 There are four user accounts that you can use to log in to the website:
 
 Usernames: js, stw, jd, ss
 PIN codes: 1111, 2222, 3333, 4444
+
 Please use the appropriate username and PIN code combination to log in to the website.
 
 
